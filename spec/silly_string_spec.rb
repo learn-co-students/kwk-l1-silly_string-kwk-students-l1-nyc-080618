@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe "Silly Strings" do
-
+your_favorite_word= ""
   it "contains your favorite word" do
     your_favorite_word = get_variable_from_file('./silly_string.rb', 'your_favorite_word')
     
