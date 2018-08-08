@@ -13,7 +13,8 @@ puts "MY FAVORITE WORD IN ALL CAPS IS #{favorite_word_in_all_caps}"
 
 lowercased_phrase = "i_m_not_shouting".downcase  
 
-puts "i_was_like #{lowercased_phrase}" 
+puts "i_was_like 
+#{lowercased_phrase}" 
 
 
 # Challenge 4: Count how many letters are in that big_word
