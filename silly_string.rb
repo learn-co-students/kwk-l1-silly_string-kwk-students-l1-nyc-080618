@@ -1,20 +1,19 @@
-
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = "Oh_my_god!" 
-puts "MY_FAVORITE_WORD_IS #{your_favorite_word}"
+your_favorite_word = "oh_my_god!" 
+puts "my_favorite_word_is #{your_favorite_word}"
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
 favorite_word_in_all_caps = "Oh_my_god".upcase  
 
-puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
+puts "MY FAVORITE WORD IN ALL CAPS IS #{favorite_word_in_all_caps}"
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
-lowercased_phrase = "IM NOT SHOUTING".lowercase
+lowercased_phrase = "i_m_not_shouting".downcase  
 
-puts "I_WAS_LIKE #{lowercased_phrase}" 
+puts "i_was_like #{lowercased_phrase}" 
 
 
 # Challenge 4: Count how many letters are in that big_word
